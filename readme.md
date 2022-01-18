@@ -1,1 +1,4 @@
-entrepot distant
+initiisation du fichier 
+
+ajute d'information
+

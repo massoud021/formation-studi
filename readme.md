@@ -1,1 +1,1 @@
-initialisation du fichier
+entrepot distant
